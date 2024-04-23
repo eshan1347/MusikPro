@@ -33,7 +33,7 @@ To get started with MusikPro, follow these steps:
 - **Frontend**: React.js, Axios
 - **Backend**: SpringBoot , Java, Maven
 - **Database**: MongoDB
-- **Other**: Multer (for file uploads), AWS S3 (for file storage)
+- **Other**: Spotify Web API
 
 ## Contributing
 
